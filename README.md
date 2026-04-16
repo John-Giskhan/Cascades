@@ -59,6 +59,4 @@
 
 ## Demo
 
-Full-quality capture (original export):
-
 [Download Vulkan-GameEngine.mp4](https://github.com/John-Giskhan/Cascades/releases/latest/download/Vulkan-GameEngine.mp4)
