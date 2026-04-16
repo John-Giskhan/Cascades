@@ -57,4 +57,8 @@
 - Data driven ECS in the game layer
 - Multithreaded job system with lock-free queues, work stealing
 
-# Heres a (horribly) compressed gif of a scene running at over 400fps with raytracing on at 4k with thousands of animated models in this engine. Sorry its the best github can do..
+## Demo
+
+Full-quality capture (original export):
+
+[Download Vulkan-GameEngine.mp4](https://github.com/John-Giskhan/Cascades/releases/latest/download/Vulkan-GameEngine.mp4)
